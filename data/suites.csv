@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Verify login page.","18004","T0101","sentinel-tests","Sat Aug 02 13:25:19 UTC 2025","failed","Sat Aug 02 13:25:37 UTC 2025","org.sentinel.tests.ui.spreecom.LoginTest","all-api-ui-tests","org.sentinel.tests.ui.spreecom.LoginTest","T0101"
+"Verify login page.","8141","T0101","sentinel-tests","Sat Aug 02 14:25:56 UTC 2025","failed","Sat Aug 02 14:26:04 UTC 2025","org.sentinel.tests.ui.spreecom.LoginTest","all-api-ui-tests","org.sentinel.tests.ui.spreecom.LoginTest","T0101"
