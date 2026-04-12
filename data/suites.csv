@@ -1,3 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Verify login page.","3805","T0101","sentinel-tests","2026-04-12","passed","2026-04-12","org.sentinel.tests.ui.spreecom.LoginTest","all-api-ui-tests","org.sentinel.tests.ui.spreecom.LoginTest","T0101"
-"Verify user able to login into system.","6598","T0102","sentinel-tests","2026-04-12","failed","2026-04-12","org.sentinel.tests.ui.spreecom.LoginTest","all-api-ui-tests","org.sentinel.tests.ui.spreecom.LoginTest","T0102"
+"Verify user able to login into system.","4","T0102","sentinel-tests","2026-04-12","skipped","2026-04-12","org.sentinel.tests.ui.spreecom.LoginTest","all-api-ui-tests","org.sentinel.tests.ui.spreecom.LoginTest","T0102"
+"","2","tearUp","sentinel-tests","2026-04-12","broken","2026-04-12","org.sentinel.tests.ui.spreecom.LoginTest","all-api-ui-tests","org.sentinel.tests.ui.spreecom.LoginTest","tearUp"
+"Verify login page.","4","T0101","sentinel-tests","2026-04-12","skipped","2026-04-12","org.sentinel.tests.ui.spreecom.LoginTest","all-api-ui-tests","org.sentinel.tests.ui.spreecom.LoginTest","T0101"
