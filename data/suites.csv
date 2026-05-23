@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Verify user able to login into system.","46377","T0102","sentinel-tests","2026-05-23","broken","2026-05-23","webapp.mymapstops.tests.ui.spreecom.LoginTest","all-api-ui-tests","webapp.mymapstops.tests.ui.spreecom.LoginTest","T0102"
-"Verify login page.","42036","T0101","sentinel-tests","2026-05-23","broken","2026-05-23","webapp.mymapstops.tests.ui.spreecom.LoginTest","all-api-ui-tests","webapp.mymapstops.tests.ui.spreecom.LoginTest","T0101"
+"Verify login page.","61501","T0101","sentinel-tests","2026-05-23","broken","2026-05-23","webapp.mymapstops.tests.ui.spreecom.LoginTest","all-api-ui-tests","webapp.mymapstops.tests.ui.spreecom.LoginTest","T0101"
+"Verify user able to login into system.","42694","T0102","sentinel-tests","2026-05-23","broken","2026-05-23","webapp.mymapstops.tests.ui.spreecom.LoginTest","all-api-ui-tests","webapp.mymapstops.tests.ui.spreecom.LoginTest","T0102"
