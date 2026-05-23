@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Verify header alignment.","1","HMS_003","my-map-stops-tests","2026-05-23","skipped","2026-05-23","webapp.mymapstops.tests.WithoutLogin","WithoutLogin","webapp.mymapstops.tests.WithoutLogin","HMS_003"
-"","0","tearUp","my-map-stops-tests","2026-05-23","broken","2026-05-23","webapp.mymapstops.tests.WithoutLogin","WithoutLogin","webapp.mymapstops.tests.WithoutLogin","tearUp"
-"Verify application title.","10","HMS_002","my-map-stops-tests","2026-05-23","skipped","2026-05-23","webapp.mymapstops.tests.WithoutLogin","WithoutLogin","webapp.mymapstops.tests.WithoutLogin","HMS_002"
